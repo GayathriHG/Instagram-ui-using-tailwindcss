@@ -39,7 +39,7 @@ MIT
 
 
 ---
-##Social Media
+## Social Media
 [LinkdIn](www.linkedin.com/in/gayathri-h-g-2151361ba)
 
 
