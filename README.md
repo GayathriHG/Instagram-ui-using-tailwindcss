@@ -38,8 +38,7 @@ I have recreated the UI of instagram using HTML and Tailwindcss.
 MIT
 
 
----
-## Social Media
+ Social Media
 [LinkdIn](www.linkedin.com/in/gayathri-h-g-2151361ba)
 
 
